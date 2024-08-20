@@ -29,7 +29,3 @@ Cloud Security is the focus here. You'll need a CISSP certification and will sig
 
 ## Certified Information Security Manager (CISM)
 Lastly, this certification is primarily aimed at experienced executives. It focuses on the management of IT security concepts, including their planning, implementation, and control.
-
----
-
-At our virtual job event, job I/O, dedicated to IT Security, YouTuber and author Florian Dalwigk will explain which IT security certifications are the most important and how to best prepare for the exams.
